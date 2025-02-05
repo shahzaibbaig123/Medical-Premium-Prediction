@@ -1,7 +1,7 @@
 # Medical Premium Prediction Analysis
 
 ## Overview
-This project uses machine learning techniques to predict medical premium prices based on a variety of health-related factors. The analysis is performed on a dataset that includes information on patient demographics, medical history, and existing health conditions. Various predictive models, including regression trees, random forests, and linear stepwise regression, are implemented to assess the most effective method for predicting premium prices.
+This project uses machine learning techniques to predict medical premium prices based on a variety of health-related factors. The analysis is performed on a dataset that includes information on patient demographics, medical history, and existing health conditions. This dataset is taken from Kaggle. Various predictive models, including regression trees, random forests, and linear stepwise regression, are implemented to assess the most effective method for predicting premium prices.
 
 ## Project Structure
 
